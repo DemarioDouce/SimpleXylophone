@@ -1,5 +1,5 @@
 # Simple Xylophone
-## Simple project
+## Learning project
 ---
-
-Simple project that diA simple project that display buttons and when a button is tap sounds are generated.splay buttons and when button are tap sounds are generated.
+* Button function.
+* Play different sounds base on which button is click.
