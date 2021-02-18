@@ -1,5 +1,5 @@
 # Simple Xylophone
 ---
 ## Screenshot
-![Homepage mockup image.](/Mockups/MockupSimpleXylophone.png)
+![Mockup image.](/Mockups/MockupSimpleXylophone.png)
 ---
